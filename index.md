@@ -44,17 +44,27 @@ A list of topics relevant to this workshop (but not limited to):
 ## **Submission Instructions**
 
 
-**[COPIED FROM NEWFRONTIER SUMM 24]** You are invited to submit your papers in our START/SoftConf submission portal. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the ACL 2023 style templates, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+You are invited to submit your papers in our [START/SoftConf submission portal](https://softconf.com/coling2025/EvalMG25). All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the [ACL style templates](https://aclrollingreview.org/cfp#paper-submission-and-templates), with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for reproducibility.
 
 ## **Invited Speakers**
 
-### Timothy Baldwin
 
-To be confirmed ...
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <!-- Adjust width for the image column -->
+    <td style="border: none; width: 30%; text-align: center;">
+      <h3>Timothy Baldwin</h3>
+      <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wjBD1dkAAAAJ&citpid=8" alt="Timothy Baldwin" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <!-- Adjust width for the text column -->
+    <td style="border: none; width: 70%; text-align: left;">
+      Timothy Baldwin is a Professor at MBZUAI whose research focuses on natural language processing (NLP), including deep learning, algorithmic fairness, computational social science, and social media analytics.
+    </td>
+  </tr>
+</table>
 
-### Julia Hockenmaier
 
-To be confirmed ...
+
 
 ## **Organisers**
 
