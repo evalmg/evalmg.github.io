@@ -34,17 +34,14 @@ A list of topics relevant to this workshop (but not limited to):
 
 - Evaluating fairness and privacy in multimodal learning and applications
 
-
 ## **Important Dates**
 <a id="important-dates"></a>
 
-- Sep XX, 2024: Workshop Submission Due Date 
+- Oct 15, 2024: Paper submission due date
 
-- Oct XX, 2024: Fast-Track Submission and ARR Commitment Deadline 
+- Nov 20, 2024: Notification of acceptance
 
-- Oct XX, 2024: Notification of Acceptance (Direct, ARR, and Fast-Track Notification)
-
-- Dec XX, 2024: Camera-ready Papers Due
+- Dec 05, 2024: Camera-ready version due
 
 - Jan 19, 2025: Workshop Date
 
@@ -80,8 +77,6 @@ To promote discussions within the community, our workshop includes non-archival 
 </table>
 
 
-
-
 ## **Organisers**
 <a id="organizers"></a>
 
@@ -92,37 +87,3 @@ To promote discussions within the community, our workshop includes non-archival 
 - Haojie Zhuang, The University of Adelaide
 - Mong Yuan Sim, The University of Adelaide & CSIRO
 - Weitong Chen, The University of Adelaide
-
-<!-- <table style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr>
-    <td style="border: none;" align="center">
-      <img src="https://weiezhang.github.io/images/profile.png" alt="Wei Emma Zhang" style="border-radius: 50%; width: 160px;"><br>
-      <a href="https://jbdel.github.io/">Wei Emma Zhang</a>
-    </td>
-    <td style="border: none;" align="center">
-      <img src="https://people.csiro.au/-/media/People-Finder/D/X/dai-dai/DSC09906_Edit.jpg?mh=600&mw=600&hash=6F3DFC0CB3CF01772A1132CACB0CA03734CE395E" alt="Xiang Dai" style="border-radius: 50%; width: 160px;"><br>
-      <a href="https://zhjohnchan.github.io/">Xiang Dai</a>
-    </td>
-    <td style="border: none;" align="center">
-      <img src="https://www2.adm.ku.dk/selv/pls/prt_www40.hentindhold_cms?p_personid=631668" alt="Desmond Elliot" style="border-radius: 50%; width: 160px;"><br>
-      <a href="https://maya-varma.com/">Desmond Elliot</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border: none;" align="center">
-      <img src="https://people.csiro.au:443/-/media/People-Finder/F/B/byron-fang/thumbnail_image_6487327.jpg?mh=600&mw=600&hash=6AFFFD77A4249611032D826E8C87D1DDF8AF3E91" alt="Byron Fang" style="border-radius: 50%; width: 160px;"><br>
-      <a href="https://jbdel.github.io/">Byron Fang</a>
-    </td>
-    <td style="border: none;" align="center">
-      <img src="" alt="Haojie Zhuang" style="border-radius: 50%; width: 160px;"><br>
-      <a href="https://zhjohnchan.github.io/">Haojie Zhuang</a>
-    </td>
-    <td style="border: none;" align="center">
-      <img src="https://media.licdn.com/dms/image/C5603AQHMp3iIWWjkFQ/profile-displayphoto-shrink_800_800/0/1644989070456?e=1725494400&v=beta&t=foHGZMwsZvKahZAhntJgMdfPhcnT2iKipCuMYcIXl1w" alt="Mong Yuan Sim" style="border-radius: 50%; width: 160px;"><br>
-      <a href="https://maya-varma.com/">Mong Yuan Sim</a>
-    </td>
-  </tr>
-</table> -->
-
-
