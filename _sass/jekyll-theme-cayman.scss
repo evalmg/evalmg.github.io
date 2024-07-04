@@ -114,6 +114,7 @@ a {
 
 
 
+
   @include large {
     padding: 5rem 6rem;
   }
@@ -378,4 +379,17 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+.navbar {
+  text-align: right;
+  background-color: transparent;
+  color: white;
+  padding: 30px;
+}
+
+.navbar a {
+  font-size: 18px; /* Adjust font size as needed */
+  margin: 0 10px; /* Add margin around each navbar item */
+  color: white;
 }

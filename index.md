@@ -2,11 +2,17 @@
 layout: default
 ---
 
+
 ## **The 1st Evaluation of Multi-Modal Generation Workshop**
 
-Multimodal generation techniques have opened new avenues for creative content generation.  However, evaluating the quality of multimodal generation remains underexplored and some key questions are unanswered, such as the contributions of each modal, the utility of pre-trained large language models for multimodal generation, and measuring faithfulness and fairness in multimodal outputs.  This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction. 
+<p style="text-align: justify;">
+    Multimodal generation techniques have opened new avenues for creative content generation.  However, evaluating the quality of multimodal generation remains underexplored and some key questions are unanswered, such as the contributions of each modal, the utility of pre-trained large language models for multimodal generation, and measuring faithfulness and fairness in multimodal outputs.  This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction. 
+</p>
+
+
 
 ## **Call for Papers**
+<a id="call-for-papers"></a>
 
 Both long paper and short papers (up to 8 pages and 4 pages respectively with unlimited references and appendices) are welcomed for submission. 
 
@@ -30,6 +36,7 @@ A list of topics relevant to this workshop (but not limited to):
 
 
 ## **Important Dates**
+<a id="important-dates"></a>
 
 - Sep XX, 2024: Workshop Submission Due Date 
 
@@ -42,23 +49,32 @@ A list of topics relevant to this workshop (but not limited to):
 - Jan 19, 2025: Workshop Date
 
 ## **Submission Instructions**
+<a id="submission"></a>
 
+<p style="text-align: justify;">
+You are invited to submit your papers in our <a href="https://softconf.com/coling2025/EvalMG25">START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href="https://aclrollingreview.org/cfp#paper-submission-and-templates">ACL style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for reproducibility.
+</p>
 
-You are invited to submit your papers in our [START/SoftConf submission portal](https://softconf.com/coling2025/EvalMG25). All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the [ACL style templates](https://aclrollingreview.org/cfp#paper-submission-and-templates), with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for reproducibility.
+### ***Non-archival Option***
+<p style="text-align: justify;">
+To promote discussions within the community, our workshop includes non-archival track. Authors have the flexbility to submit their unpublished work or papers accepted to COLING main conference to our workshop. The organisers may offer the opportunity to give oral or poster presentation. 
+</p>
 
 ## **Invited Speakers**
+<a id="invited-speakers"></a>
 
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <!-- Adjust width for the image column -->
     <td style="border: none; width: 30%; text-align: center;">
       <h3>Timothy Baldwin</h3>
-      <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wjBD1dkAAAAJ&citpid=8" alt="Timothy Baldwin" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+      <img src="assets/img/tim.jpeg" alt="Timothy Baldwin" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
     </td>
     <!-- Adjust width for the text column -->
     <td style="border: none; width: 70%; text-align: left;">
+      <p style="text-align: justify;">
       Timothy Baldwin is a Professor at MBZUAI whose research focuses on natural language processing (NLP), including deep learning, algorithmic fairness, computational social science, and social media analytics.
+      </p>
     </td>
   </tr>
 </table>
@@ -67,13 +83,15 @@ You are invited to submit your papers in our [START/SoftConf submission portal](
 
 
 ## **Organisers**
+<a id="organizers"></a>
 
 - Wei Emma Zhang, The University of Adelaide
 - Xiang Dai, CSIRO
 - Desmond Elliot, University of Copenhagen
 - Byron Fang, CSIRO
 - Haojie Zhuang, The University of Adelaide
-- Mong Yuan Sim, The University of Adelaide
+- Mong Yuan Sim, The University of Adelaide & CSIRO
+- Weitong Chen, The University of Adelaide
 
 <!-- <table style="border-collapse: collapse; border: none; margin: 0 auto;">
   <tr>
