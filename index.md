@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## **The 1st Evaluation of Multi-Modal Generation Workshop**
+## **The First Workshop of Evaluation of Multi-Modal Generation**
 
 <p style="text-align: justify;">
     Multimodal generation techniques have opened new avenues for creative content generation.  However, evaluating the quality of multimodal generation remains underexplored and some key questions are unanswered, such as the contributions of each modal, the utility of pre-trained large language models for multimodal generation, and measuring faithfulness and fairness in multimodal outputs.  This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction. 
