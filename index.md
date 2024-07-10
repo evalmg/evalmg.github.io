@@ -49,7 +49,7 @@ A list of topics relevant to this workshop (but not limited to):
 <a id="submission"></a>
 
 <p style="text-align: justify;">
-You are invited to submit your papers in our <a href="https://softconf.com/coling2025/EvalMG25">START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href="https://aclrollingreview.org/cfp#paper-submission-and-templates">ACL style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for reproducibility.
+You are invited to submit your papers in our <a href="https://softconf.com/coling2025/EvalMG25">START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href="https://coling2025.org/calls/submission_guidlines/">COLING 2025 templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for reproducibility.
 </p>
 
 ### ***Non-archival Option***
