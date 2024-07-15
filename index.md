@@ -37,13 +37,15 @@ A list of topics relevant to this workshop (but not limited to):
 ## **Important Dates**
 <a id="important-dates"></a>
 
-- Oct 15, 2024: Paper submission due date
+- Nov 20, 2024: Paper submission due date
 
-- Nov 20, 2024: Notification of acceptance
+- Dec 05, 2024: Notification of acceptance
 
-- Dec 05, 2024: Camera-ready version due
+- Dec 11, 2024: Camera-ready version due
 
 - Jan 19, 2025: Workshop Date
+
+Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 
 ## **Submission Instructions**
 <a id="submission"></a>
