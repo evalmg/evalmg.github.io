@@ -43,7 +43,7 @@ A list of topics relevant to this workshop (but not limited to):
 
 - Dec 11, 2024: Camera-ready version due
 
-- Jan 19, 2025: Workshop Date
+- Jan 20, 2025: Workshop Date
 
 Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 
