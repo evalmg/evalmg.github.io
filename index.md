@@ -87,7 +87,7 @@ To promote discussions within the community, our workshop includes non-archival 
     <!-- Adjust width for the text column -->
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
-      Dr Qi Wu is currently an Associate Professor in the University of Adelaide and he was an ARC Senior Research Associate in the Australian Centre for Robotic Vision (ACRV) in the University of Adelaide, Australia. His research interests include cross-depictive style object modelling, object detection and Vision-to-Language problems. He is especially interested in the problem of Image Captioning and Visual Question Answering.
+      Qi Wu is currently an Associate Professor in the University of Adelaide and he was an ARC Senior Research Associate in the Australian Centre for Robotic Vision (ACRV) in the University of Adelaide, Australia. His research interests include cross-depictive style object modelling, object detection and Vision-to-Language problems. He is especially interested in the problem of Image Captioning and Visual Question Answering.
       </p>
     </td>
   </tr>
