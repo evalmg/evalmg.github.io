@@ -78,6 +78,21 @@ To promote discussions within the community, our workshop includes non-archival 
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+      <h3>Qi Wu</h3>
+      <img src="assets/img/qi_wu.jpeg" alt="Qi Wu" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <!-- Adjust width for the text column -->
+    <td style="border: none; width: 70%; text-align: left;">
+      <p style="text-align: justify;">
+      Dr Qi Wu is currently an Associate Professor in the University of Adelaide and he was an ARC Senior Research Associate in the Australian Centre for Robotic Vision (ACRV) in the University of Adelaide, Australia. His research interests include cross-depictive style object modelling, object detection and Vision-to-Language problems. He is especially interested in the problem of Image Captioning and Visual Question Answering.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## **Organisers**
 <a id="organizers"></a>
