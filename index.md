@@ -87,7 +87,7 @@ To promote discussions within the community, our workshop includes non-archival 
     <!-- Adjust width for the text column -->
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
-      Qi Wu is currently an Associate Professor in the University of Adelaide and he was an ARC Senior Research Associate in the Australian Centre for Robotic Vision (ACRV) in the University of Adelaide, Australia. His research interests include cross-depictive style object modelling, object detection and Vision-to-Language problems. He is especially interested in the problem of Image Captioning and Visual Question Answering.
+      Dr Qi Wu is an Associate Professor at the University of Adelaide and was the ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021. He is the Director of Vision-and-Language at the Australia Institute of Machine Learning. Australian Academy of Science awarded him a J G Russell Award in 2019. He obtained his PhD degree in 2015 and MSc degree in 2011, in Computer Science from the University of Bath, United Kingdom. His research interests are mainly in computer vision and machine learning. Currently, he is working on the vision-language problem, and he is primarily an expert in image captioning and visual question answering (VQA). He has published more than 100 papers in prestigious conferences and journals, such as TPAMI, CVPR, ICCV, ECCV. He is also the Area Chair for CVPR and ICCV.
       </p>
     </td>
   </tr>
