@@ -72,7 +72,7 @@ To promote discussions within the community, our workshop includes non-archival 
     <!-- Adjust width for the text column -->
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
-      Timothy Baldwin is a Professor at MBZUAI whose research focuses on natural language processing (NLP), including deep learning, algorithmic fairness, computational social science, and social media analytics.
+      Professor Tim Baldwin is Provost and Professor of Natural Language Processing at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), in addition to being a Melbourne Laureate Professor in the School of Computing and Information Systems, The University of Melbourne and Chief Scientist of LibrAI, a start-up focused on AI safety. Tim completed a BSc(CS/Maths) and BA(Linguistics/Japanese) at The University of Melbourne in 1995, and an MEng(CS) and PhD(CS) at the Tokyo Institute of Technology in 1998 and 2001, respectively. He joined MBZUAI at the start of 2022, prior to which he was based at The University of Melbourne for 17 years. His research has been funded by organisations including the Australian Research Council, Google, Microsoft, Xerox, ByteDance, SEEK, NTT, and Fujitsu. He is the author of over 500 peer-reviewed publications across diverse topics in natural language processing and AI, in addition to being an ARC Future Fellow, and the recipient of a number of awards at top conferences.
       </p>
     </td>
   </tr>
