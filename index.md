@@ -94,6 +94,23 @@ To promote discussions within the community, our workshop includes non-archival 
 </table>
 
 
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+      <h3>Yova Kementchedjhieva</h3>
+      <img src="assets/img/Yova-Kementchedijhieva-487p.png" alt="Yova Kementchedjhieva" style="border-radius: 50%; max-width: 75%; height: auto;"><br>
+    </td>
+    <!-- Adjust width for the text column -->
+    <td style="border: none; width: 70%; text-align: left;">
+      <p style="text-align: justify;">
+      Dr Yova Kementchedjhieva is an assistant professor of Natural Language Processing at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). Her research concerns language generation in multimodal and cross-lingual contexts. She is interested in knowledge grounding and transfer learning, most recently in the area of vision-and-language processing.
+      Prior to joining MBZUAI, Kementchedjhieva was a postdoctoral researcher in the department of computer science at the University of Copenhagen. During her time at the University of Copenhagen, she worked on conditional text generation across a range of tasks, including grammatical error correction, dialog generation and image captioning. Her earlier work concerned multilingual natural language processing, with a focus on cross-lingual embedding alignment. While at Copenhagen, she also worked as a teaching assistant, gave lectures for beginner and advanced NLP courses, and interned at Google LLC. and DataMinr in a researcher capacity.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## **Organisers**
 <a id="organizers"></a>
 
