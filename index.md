@@ -98,7 +98,7 @@ To promote discussions within the community, our workshop includes non-archival 
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
       <h3>Yova Kementchedjhieva</h3>
-      <img src="assets/img/Yova-Kementchedijhieva-487p.png" alt="Yova Kementchedjhieva" style="border-radius: 50%; max-width: 75%; height: auto;"><br>
+      <img src="assets/img/Yova-Kementchedijhieva-487p.png" alt="Yova Kementchedjhieva" style="border-radius: 50%; max-width: 90%; height: auto;"><br>
     </td>
     <!-- Adjust width for the text column -->
     <td style="border: none; width: 70%; text-align: left;">
