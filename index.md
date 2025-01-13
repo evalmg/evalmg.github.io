@@ -14,7 +14,7 @@ layout: default
 <b>Date: 20 January 2025 (Monday)</b>
 
 <table>
-  <tr>
+  <tr style="background-color: #5A5A5A; ">
     <th style="width: 180px;">Time</th>
     <th>Presentation Details</th>
   </tr>
