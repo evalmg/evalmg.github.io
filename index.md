@@ -9,6 +9,27 @@ layout: default
     Multimodal generation techniques have opened new avenues for creative content generation.  However, evaluating the quality of multimodal generation remains underexplored and some key questions are unanswered, such as the contributions of each modal, the utility of pre-trained large language models for multimodal generation, and measuring faithfulness and fairness in multimodal outputs.  This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction. 
 </p>
 
+## **Schedule**
+
+<b>Date: 20 January 2025 (Monday)</b>
+
+| Time       | Presentation Details       |
+|----------------|----------------|
+| 9:00 - 9:10  | Opening  |
+| 9:10 - 10:10  | <b>Keynote I - A/Prof Qi Wu </b> <br>  Topic: Reasoning is Measurable: Two new evaluation datasets & metrics on LLMs and MLLMs |
+| 10:10-10:30   | <b>Paper presentation</b> <br> CVT5: SING COMPRESSED VIDEO ENCODER AND UMT5 FOR DENSE VIDEO CAPTIONING <br> <i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i> |
+| 10:30-11:00  | Conference tea break |
+| 11:00- 12:00 | <b>Keynote II - Prof Timothy Baldwin</b> <br> Topic: TBD |
+|12:00- 13:00   | <b>Paper presentation</b> <br> TAIWANVQA: A BENCHMARK FOR VISUAL QUESTION ANSWERING FOR TAIWANESE DAILY LIFE <br> <i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu </i> <br><br> A DATASET FOR PROGRAMMING-BASED INSTRUCTIONAL VIDEO CLASSIFICATION AND QUESTION ANSWERING <br> <i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib </i> <br><br> LLAVA-RE: BINARY IMAGE-TEXT RELEVANCY EVALUATION WITH MULTIMODAL LARGE LANGUAGE MODEL <br> <i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma |
+|13:00-14:00 | Conference lunch |
+|14:00- 15:00 | <b>Keynote III - Dr Yova Kementchedjhieva</b> <br> Topic: Fine-grained Image Caption Generation and Evaluation |
+|15:00 – 15:20 | <b> Paper presentation </b> <br> GUIDING VISION-LANGUAGE MODEL SELECTION FOR VISUAL QUESTION-ANSWERING ACROSS TASKS, DOMAINS, AND KNOWLEDGE TYPES <br> <i>Authors: Neelabh Sinha, Vinija Jain and Aman Chadha |
+|15:30- 16:00 | Conference tea break |
+|16:00 – 16:40 | <b>Papers presentation </b> <br> IF I FEEL SMART, I WILL DO THE RIGHT THING: COMBINING COMPLEMENTARY MULTIMODAL INFORMATION IN VISUAL LANGUAGE MODELS <br> <i>Authors: Yuyu Bai and Sandro Pezzelle </i> <br><br> PERSIAN IN A COURT: BENCHMARKING VLMS IN PERSIAN MULTI-MODAL TASKS <br> <i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i> |
+
+
+
+ 
 
 
 ## **Call for Papers**
