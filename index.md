@@ -13,21 +13,56 @@ layout: default
 
 <b>Date: 20 January 2025 (Monday)</b>
 
-| Time       | Presentation Details       |
-|----------------|----------------|
-| 9:00 - 9:10  | Opening  |
-| 9:10 - 10:10  | <b>Keynote I - A/Prof Qi Wu </b> <br>  Topic: Reasoning is Measurable: Two new evaluation datasets & metrics on LLMs and MLLMs |
-| 10:10-10:30   | <b>Paper presentation</b> <br> CVT5: SING COMPRESSED VIDEO ENCODER AND UMT5 FOR DENSE VIDEO CAPTIONING <br> <i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i> |
-| 10:30-11:00  | Conference tea break |
-| 11:00- 12:00 | <b>Keynote II - Prof Timothy Baldwin</b> <br> Topic: TBD |
-|12:00- 13:00   | <b>Paper presentation</b> <br> TAIWANVQA: A BENCHMARK FOR VISUAL QUESTION ANSWERING FOR TAIWANESE DAILY LIFE <br> <i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu </i> <br><br> A DATASET FOR PROGRAMMING-BASED INSTRUCTIONAL VIDEO CLASSIFICATION AND QUESTION ANSWERING <br> <i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib </i> <br><br> LLAVA-RE: BINARY IMAGE-TEXT RELEVANCY EVALUATION WITH MULTIMODAL LARGE LANGUAGE MODEL <br> <i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma |
-|13:00-14:00 | Conference lunch |
-|14:00- 15:00 | <b>Keynote III - Dr Yova Kementchedjhieva</b> <br> Topic: Fine-grained Image Caption Generation and Evaluation |
-|15:00 – 15:20 | <b> Paper presentation </b> <br> GUIDING VISION-LANGUAGE MODEL SELECTION FOR VISUAL QUESTION-ANSWERING ACROSS TASKS, DOMAINS, AND KNOWLEDGE TYPES <br> <i>Authors: Neelabh Sinha, Vinija Jain and Aman Chadha |
-|15:30- 16:00 | Conference tea break |
-|16:00 – 16:40 | <b>Papers presentation </b> <br> IF I FEEL SMART, I WILL DO THE RIGHT THING: COMBINING COMPLEMENTARY MULTIMODAL INFORMATION IN VISUAL LANGUAGE MODELS <br> <i>Authors: Yuyu Bai and Sandro Pezzelle </i> <br><br> PERSIAN IN A COURT: BENCHMARKING VLMS IN PERSIAN MULTI-MODAL TASKS <br> <i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i> |
-
-
+<table>
+  <tr>
+    <th style="width: 100px;">Time</th>
+    <th>Presentation Details</th>
+  </tr>
+  <tr>
+    <td>9:00 - 9:10</td>
+    <td>Opening</td>
+  </tr>
+  <tr>
+    <td>9:10 - 10:10</td>
+    <td><b>Keynote I - A/Prof Qi Wu</b><br>Topic: Reasoning is Measurable: Two new evaluation datasets & metrics on LLMs and MLLMs</td>
+  </tr>
+  <tr>
+    <td>10:10 - 10:30</td>
+    <td><b>Paper presentation</b><br>CVT5: SING COMPRESSED VIDEO ENCODER AND UMT5 FOR DENSE VIDEO CAPTIONING<br><i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i></td>
+  </tr>
+  <tr>
+    <td>10:30 - 11:00</td>
+    <td>Conference tea break</td>
+  </tr>
+  <tr>
+    <td>11:00 - 12:00</td>
+    <td><b>Keynote II - Prof Timothy Baldwin</b><br>Topic: TBD</td>
+  </tr>
+  <tr>
+    <td>12:00 - 13:00</td>
+    <td><b>Paper presentation</b><br>TAIWANVQA: A BENCHMARK FOR VISUAL QUESTION ANSWERING FOR TAIWANESE DAILY LIFE<br><i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu</i><br><br>A DATASET FOR PROGRAMMING-BASED INSTRUCTIONAL VIDEO CLASSIFICATION AND QUESTION ANSWERING<br><i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib</i><br><br>LLAVA-RE: BINARY IMAGE-TEXT RELEVANCY EVALUATION WITH MULTIMODAL LARGE LANGUAGE MODEL<br><i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma</i></td>
+  </tr>
+  <tr>
+    <td>13:00 - 14:00</td>
+    <td>Conference lunch</td>
+  </tr>
+  <tr>
+    <td>14:00 - 15:00</td>
+    <td><b>Keynote III - Dr Yova Kementchedjhieva</b><br>Topic: Fine-grained Image Caption Generation and Evaluation</td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:20</td>
+    <td><b>Paper presentation</b><br>GUIDING VISION-LANGUAGE MODEL SELECTION FOR VISUAL QUESTION-ANSWERING ACROSS TASKS, DOMAINS, AND KNOWLEDGE TYPES<br><i>Authors: Neelabh Sinha, Vinija Jain and Aman Chadha</i></td>
+  </tr>
+  <tr>
+    <td>15:30 - 16:00</td>
+    <td>Conference tea break</td>
+  </tr>
+  <tr>
+    <td>16:00 - 16:40</td>
+    <td><b>Papers presentation</b><br>IF I FEEL SMART, I WILL DO THE RIGHT THING: COMBINING COMPLEMENTARY MULTIMODAL INFORMATION IN VISUAL LANGUAGE MODELS<br><i>Authors: Yuyu Bai and Sandro Pezzelle</i><br><br>PERSIAN IN A COURT: BENCHMARKING VLMS IN PERSIAN MULTI-MODAL TASKS<br><i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i></td>
+  </tr>
+</table>
 
  
 
