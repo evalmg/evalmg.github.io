@@ -15,7 +15,7 @@ layout: default
 
 <table>
   <tr>
-    <th style="width: 100px;">Time</th>
+    <th style="width: 180px;">Time</th>
     <th>Presentation Details</th>
   </tr>
   <tr>
