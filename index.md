@@ -28,7 +28,7 @@ layout: default
   </tr>
   <tr>
     <td>10:10 - 10:30</td>
-    <td><b>Paper presentation</b><br>CVT5: SING COMPRESSED VIDEO ENCODER AND UMT5 FOR DENSE VIDEO CAPTIONING<br><i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i></td>
+    <td><b>Paper presentation</b><br>CVT5: USING COMPRESSED VIDEO ENCODER AND UMT5 FOR DENSE VIDEO CAPTIONING<br><i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i></td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
