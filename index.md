@@ -12,6 +12,8 @@ layout: default
 ## **Schedule**
 
 <b>Date: 20 January 2025 (Monday)</b>
+<br>
+<b>Venue: Abu Dahbi National Exhibition Center , Capital Suite 10</b>
 
 <table>
   <tr style="background-color: #807e7e; color: white;">
