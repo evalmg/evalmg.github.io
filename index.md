@@ -30,7 +30,7 @@ layout: default
   </tr>
   <tr>
     <td>10:10 - 10:30</td>
-    <td><b>Paper presentation</b><br>CVT5: USING COMPRESSED VIDEO ENCODER AND UMT5 FOR DENSE VIDEO CAPTIONING<br><i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i></td>
+    <td><b>Paper presentation</b><br>CVT5: Using Compressed Video Encoder and UMT5 for Dense Video Captioning<br><i>Authors: Mohammad Javad Pirhadi, Motahhare Mirzaei and Sauleh Eetemadi</i></td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
@@ -41,8 +41,8 @@ layout: default
     <td><b>Keynote II - Prof Timothy Baldwin</b><br>Topic: TBD</td>
   </tr>
   <tr>
-    <td>12:00 - 13:00</td>
-    <td><b>Paper presentation</b><br>TAIWANVQA: A BENCHMARK FOR VISUAL QUESTION ANSWERING FOR TAIWANESE DAILY LIFE<br><i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu</i><br><br>A DATASET FOR PROGRAMMING-BASED INSTRUCTIONAL VIDEO CLASSIFICATION AND QUESTION ANSWERING<br><i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib</i><br><br>LLAVA-RE: BINARY IMAGE-TEXT RELEVANCY EVALUATION WITH MULTIMODAL LARGE LANGUAGE MODEL<br><i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma</i></td>
+    <td>12:00 - 12:40</td>
+    <td><b>Paper presentation</b><br>TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life<br><i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu</i><br><br>Persian in a Court: Benchmarking VLMs In Persian Multi-Modal Tasks<br><i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i><br><br>(Invited) ACE-M^3: Automatic Capability Evaluator for Multimodal Medical Models <br><i>Authors: Xiechi Zhang, Shunfan Zheng, Linlin Wang, Gerard de Melo, Zhu Cao, xiaoling Wang and Liang He</i></td>
   </tr>
   <tr>
     <td>13:00 - 14:00</td>
@@ -54,15 +54,15 @@ layout: default
   </tr>
   <tr>
     <td>15:00 - 15:20</td>
-    <td><b>Paper presentation</b><br>GUIDING VISION-LANGUAGE MODEL SELECTION FOR VISUAL QUESTION-ANSWERING ACROSS TASKS, DOMAINS, AND KNOWLEDGE TYPES<br><i>Authors: Neelabh Sinha, Vinija Jain and Aman Chadha</i></td>
+    <td><b>Paper presentation</b><br>Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types<br><i>Authors: Neelabh Sinha, Vinija Jain and Aman Chadha</i></td>
   </tr>
   <tr>
     <td>15:30 - 16:00</td>
     <td>Conference tea break</td>
   </tr>
   <tr>
-    <td>16:00 - 16:40</td>
-    <td><b>Papers presentation</b><br>IF I FEEL SMART, I WILL DO THE RIGHT THING: COMBINING COMPLEMENTARY MULTIMODAL INFORMATION IN VISUAL LANGUAGE MODELS<br><i>Authors: Yuyu Bai and Sandro Pezzelle</i><br><br>PERSIAN IN A COURT: BENCHMARKING VLMS IN PERSIAN MULTI-MODAL TASKS<br><i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i></td>
+    <td>16:00 - 16:50</td>
+    <td><b>Papers presentation</b><br>If I feel smart, I will do the right thing: Combining Complementary Multimodal Information in Visual Language Models<br><i>Authors: Yuyu Bai and Sandro Pezzelle</i><br><br>A Dataset for Programming-based Instructional Video Classification and Question Answering<br><i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib</i><br><br>LLaVA-RE: Binary Image-Text Relevancy Evaluation with Multimodal Large Language Model<br><i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma</i></td>
   </tr>
 </table>
 
