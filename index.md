@@ -68,6 +68,11 @@ layout: default
   </tr>
 </table>
 
+## **Schedule**
+<b>Venue: Abu Dahbi National Exhibition Center , Capital Suite 10</b>
+<br>
+
+
  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3632.94219802992!2d54.434064711021115!3d24.418075578129958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e42742c04a181%3A0xc2f73ba3f513d4b3!2sADNEC%20Centre%20Abu%20Dhabi!5e0!3m2!1sen!2smy!4v1737189684815!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
