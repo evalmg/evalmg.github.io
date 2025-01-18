@@ -68,7 +68,7 @@ layout: default
   </tr>
 </table>
 
-## **Schedule**
+## **Venue**
 <b>Venue: Abu Dahbi National Exhibition Center , Capital Suite 10</b>
 <br>
 
