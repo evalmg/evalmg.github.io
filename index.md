@@ -40,7 +40,7 @@ layout: default
   </tr>
   <tr>
     <td>11:00 - 12:00</td>
-    <td><b>Keynote II - Prof Timothy Baldwin</b><br>Topic: TBD</td>
+    <td><b>Keynote II - Prof Timothy Baldwin</b><br>Topic: Evaluating The "Humanism" of Foundation Models: Culture and Safety</td>
   </tr>
   <tr>
     <td>12:00 - 12:40</td>
