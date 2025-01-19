@@ -175,6 +175,20 @@ To promote discussions within the community, our workshop includes non-archival 
   </tr>
 </table>
 
+## **Program Committee**
+
+- Emily Allaway
+- Necva Bölücü
+- Guillermo	Cámbara
+- Haojie Zhuang
+- Mong Yuan Sim
+- Sanchez Villegas
+- Lipin Guo
+- Wenhao Liang
+- Yutong Qu
+- Lishan Yang
+- Liangwei Zheng
+
 
 ## **Organisers**
 <a id="organizers"></a>
