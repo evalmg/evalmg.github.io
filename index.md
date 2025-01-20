@@ -44,7 +44,7 @@ layout: default
   </tr>
   <tr>
     <td>12:00 - 12:40</td>
-    <td><b>Paper presentation</b><br>TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life<br><i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu</i><br><br>Persian in a Court: Benchmarking VLMs In Persian Multi-Modal Tasks<br><i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i><br><br>(Invited) ACE-M^3: Automatic Capability Evaluator for Multimodal Medical Models <br><i>Authors: Xiechi Zhang, Shunfan Zheng, Linlin Wang, Gerard de Melo, Zhu Cao, xiaoling Wang and Liang He</i></td>
+    <td><b>Paper presentation</b><br>TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life<br><i>Authors: Hsin-Yi Hsieh, Shang Wei Liu, Chang Chih Meng, Shuo-Yueh Lin, Chen Chien-Hua, Hung-Ju Lin, Hen-Hsen Huang and I-Chen Wu</i><br><br>LLaVA-RE: Binary Image-Text Relevancy Evaluation with Multimodal Large Language Model<br><i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma</i><br><br>(Invited) ACE-M^3: Automatic Capability Evaluator for Multimodal Medical Models <br><i>Authors: Xiechi Zhang, Shunfan Zheng, Linlin Wang, Gerard de Melo, Zhu Cao, xiaoling Wang and Liang He</i></td>
   </tr>
   <tr>
     <td>13:00 - 14:00</td>
@@ -64,7 +64,7 @@ layout: default
   </tr>
   <tr>
     <td>16:00 - 16:50</td>
-    <td><b>Papers presentation</b><br>If I feel smart, I will do the right thing: Combining Complementary Multimodal Information in Visual Language Models<br><i>Authors: Yuyu Bai and Sandro Pezzelle</i><br><br>A Dataset for Programming-based Instructional Video Classification and Question Answering<br><i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib</i><br><br>LLaVA-RE: Binary Image-Text Relevancy Evaluation with Multimodal Large Language Model<br><i>Authors: Tao Sun, Oliver Liu, JinJin Li and Lan Ma</i></td>
+    <td><b>Papers presentation</b><br>If I feel smart, I will do the right thing: Combining Complementary Multimodal Information in Visual Language Models<br><i>Authors: Yuyu Bai and Sandro Pezzelle</i><br><br>A Dataset for Programming-based Instructional Video Classification and Question Answering<br><i>Authors: Sana Javaid Raja, Adeel Zafar and Aqsa Shoaib</i><br><br>Persian in a Court: Benchmarking VLMs In Persian Multi-Modal Tasks<br><i>Authors: Farhan Farsi, Shahriar Shariati Motlagh, Shayan Bali, Sadra Sabouri and Saeedeh Momtazi</i></td>
   </tr>
 </table>
 
