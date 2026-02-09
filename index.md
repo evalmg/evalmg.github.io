@@ -1,5 +1,6 @@
 ---
 layout: default
+has_previous: true
 ---
 
 
