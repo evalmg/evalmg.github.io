@@ -65,31 +65,6 @@ Instructions for submission will be updated soon.
 
 TBA
 
-## **Program Committee**
-
-- Necva Bolucu, CSIRO, Australia
-- Weitong Chen, Adelaide University, Australia 
-- Shane Culpepper, University of Queensland, Australia
-- Mareike Hartmann, Saarland University, Germany
-- Aditya Joshi, UNSW, Australia
-- Miao Liu, Wuhan University, China 
-- Congbo Ma, New York University Abu Dhabi, UAE
-- Joel Mackenzie, University of Queensland, Australia
-- Vincent Nguyen, GoTo Group, Singapore
-- Lizhen Qu, Monash University, Australia
-- Maciek Rybinski, Universidad de Málaga
-- Quan Z. Sheng, Macquarie University, Australia
-- Sonit Singh, University of New South Wales, Australia
-- Damiano Spina, RMIT, Australia
-- Paul Thomas, Microsoft, Australia
-- Danae Sanchez Villegas, University of Copenhagen, Denmark
-- Chao Wang, UTS, Australia
-- Huichen Yang, CSIRO, Australia
-- Zhigang Yang, Harbin Engineering University, China
-- Lin Yue, Adelaide University, Australia
-- Haojie Zhuang, Australian National University, Australia
-
-
 ## **Organisers**
 <a id="organizers"></a>
 
