@@ -98,3 +98,7 @@ TBA
 - Desmond Elliot, University of Copenhagen
 - Byron Fang, Oracle
 - Mong Yuan Sim, Adelaide University & CSIRO
+- 
+
+## **Previous Edition**
+- <a href="/2025/">EvalMG25 @ COLING 2025</a>
