@@ -45,7 +45,9 @@ A list of topics relevant to this workshop (but not limited to):
 ## **Important Dates**
 <a id="important-dates"></a>
 
-- Apr 17, 2026: Workshop Paper Submission
+- Mar 25, 2026: Submission Open
+
+- Apr 21, 2026: Workshop Paper Submission
 
 - May 21, 2026: Workshop Paper Notification
 
@@ -57,13 +59,28 @@ Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 <a id="submission"></a>
 
 <p style="text-align: justify;">
-Instructions for submission will be updated soon.
+You are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. All the submitted papers have to be anonymous for double-blined review. Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>. 
 </p>
 
 
 ## **Invited Speakers**
+<a id="invited-speakers"></a>
 
-TBA
+
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+      <h3>Mark Johnson</h3>
+      <img src="/assets/img/mj2012.jpg" alt="Mark Johnson" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+      <p style="text-align: justify;">
+          <h3> Talk Title: TBD</h3> <br>
+      Mark Johnson is a Professor of Language Science (CORE) in the School of Computing at Macquarie University. He is also the Chief AI Scientist, Oracle Digital Assistant at Oracle Corporation, where he develops chatbots and digital assistants. The Oracle Digital Assistant division develops novel deep learning models to power the next generation of Conversational AI using semantic parsing.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## **Organisers**
 <a id="organizers"></a>
