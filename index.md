@@ -70,13 +70,13 @@ You are invited to submit your papers in our <a href="https://openreview.net/gro
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
-      <h3>Mark Johnson</h3>
-      <img src="/assets/img/mj2012.jpg" alt="Mark Johnson" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+      <h3>Mark Sanderson</h3>
+      <img src="/assets/img/MarkSanderson_00139_head.jpg" alt="Mark Johnson" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
     </td>
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
           <h3> Talk Title: TBD</h3> <br>
-      Mark Johnson is a Professor of Language Science (CORE) in the School of Computing at Macquarie University. He is also the Chief AI Scientist, Oracle Digital Assistant at Oracle Corporation, where he develops chatbots and digital assistants. The Oracle Digital Assistant division develops novel deep learning models to power the next generation of Conversational AI using semantic parsing.
+      Mark Sanderson is the Dean for Research and Innovation in the STEM College of RMIT University. He is also a Professor of Information Retrieval (IR). His work in information retrieval, data analysis, and recommender systems has attracted over 15,000 Google Scholar citations.
       </p>
     </td>
   </tr>
