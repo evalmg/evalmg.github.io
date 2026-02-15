@@ -60,7 +60,7 @@ Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 
 <p style="text-align: justify;">
 You are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. 
-We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. All the submitted papers have to be anonymous for double-blined review. Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>. All accepted papers must be presented in person at the conference.
+We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. All the submitted papers have to be anonymous for double-blined review. Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>. All accepted papers must be presented **in person** at the workshop.
 
 </p>
 
