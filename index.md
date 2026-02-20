@@ -14,7 +14,7 @@ has_previous: true
 ## **Call for Papers**
 <a id="call-for-papers"></a>
 
-Both long paper and short papers (up to 8 pages and 4 pages respectively with unlimited references and appendices) are welcomed for submission. 
+Both long paper and short papers (up to 9 pages and 4 pages respectively with unlimited references and appendices) are welcomed for submission. 
 
 A list of topics relevant to this workshop (but not limited to):
 
