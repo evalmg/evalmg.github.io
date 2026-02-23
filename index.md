@@ -49,7 +49,9 @@ A list of topics relevant to this workshop (but not limited to):
 
 - Apr 21, 2026: Workshop Paper Submission
 
-- May 21, 2026: Workshop Paper Notification
+- May 27, 2026: ARR Commitment Date
+
+- May 30, 2026: Workshop Paper Notification
 
 - July 24, 2026: Workshop Day
 
