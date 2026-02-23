@@ -42,6 +42,24 @@ A list of topics relevant to this workshop (but not limited to):
 
 - Evaluation of Security and Privacy Dimensions in Multimodal Applications
 
+## **Invited Speakers**
+<a id="invited-speakers"></a>
+
+
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+      <h3>Mark Sanderson</h3>
+      <img src="/assets/img/MarkSanderson_00139_head.jpg" alt="Mark Johnson" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+      <p style="text-align: justify;">
+          <h3> Talk Title: TBD</h3> <br>
+      Mark Sanderson is the Dean for Research and Innovation in the STEM College of RMIT University. He is also a Professor of Information Retrieval (IR). His work in information retrieval, data analysis, and recommender systems has attracted over 15,000 Google Scholar citations.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## **Submission Instructions**
 <a id="submission"></a>
@@ -70,25 +88,6 @@ All accepted papers must be presented <b>in person</b> at the workshop.
 - July 24, 2026: Workshop Day
 
 Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
-
-## **Invited Speakers**
-<a id="invited-speakers"></a>
-
-
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="border: none; width: 30%; text-align: center;">
-      <h3>Mark Sanderson</h3>
-      <img src="/assets/img/MarkSanderson_00139_head.jpg" alt="Mark Johnson" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
-    </td>
-    <td style="border: none; width: 70%; text-align: left;">
-      <p style="text-align: justify;">
-          <h3> Talk Title: TBD</h3> <br>
-      Mark Sanderson is the Dean for Research and Innovation in the STEM College of RMIT University. He is also a Professor of Information Retrieval (IR). His work in information retrieval, data analysis, and recommender systems has attracted over 15,000 Google Scholar citations.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## **Organisers**
 <a id="organizers"></a>
