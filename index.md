@@ -42,6 +42,20 @@ A list of topics relevant to this workshop (but not limited to):
 
 - Evaluation of Security and Privacy Dimensions in Multimodal Applications
 
+
+## **Submission Instructions**
+<a id="submission"></a>
+
+<p style="text-align: justify;">
+We welcome both ARR paper commitment and direct paper submission.
+More details on ARR paper commitment will be coming soon.
+For direct paper submission, you are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. 
+Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>.
+We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. 
+All the submitted papers have to be anonymous for double-blind review.  
+All accepted papers must be presented <b>in person</b> at the workshop.
+</p>
+
 ## **Important Dates**
 <a id="important-dates"></a>
 
@@ -56,19 +70,6 @@ A list of topics relevant to this workshop (but not limited to):
 - July 24, 2026: Workshop Day
 
 Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
-
-## **Submission Instructions**
-<a id="submission"></a>
-
-<p style="text-align: justify;">
-You are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. 
-Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>.
-We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. 
-All the submitted papers have to be anonymous for double-blind review.  
-All accepted papers must be presented <b>in person</b> at the workshop.
-
-</p>
-
 
 ## **Invited Speakers**
 <a id="invited-speakers"></a>
