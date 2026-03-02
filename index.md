@@ -49,7 +49,7 @@ A list of topics relevant to this workshop (but not limited to):
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
-      <h3>Mark Sanderson</h3>
+      <h3><a href="https://marksanderson.org/">Mark Sanderson</a></h3>
       <img src="/assets/img/MarkSanderson_00139_head.jpg" alt="Mark Johnson" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
     </td>
     <td style="border: none; width: 70%; text-align: left;">
@@ -65,7 +65,7 @@ A list of topics relevant to this workshop (but not limited to):
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
-        <h3>Jing Jiang</h3>
+        <h3><a href="http://www.mysmu.edu/faculty/jingjiang/">Jing Jiang</a></h3>
         <img src="/assets/img/JJ_Photo.jpg" alt="Jing Jiang" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
     </td>
     <td style="border: none; width: 70%; text-align: left;">
