@@ -55,7 +55,7 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
           <h3> Talk Title: TBD</h3> <br>
-      Mark Sanderson is the Dean for Research and Innovation in the STEM College of RMIT University. He is also a Professor of Information Retrieval (IR). His work in information retrieval, data analysis, and recommender systems has attracted over 15,000 Google Scholar citations.
+          Mark Sanderson is Professor of Information Retrieval at RMIT University where he is Dean of Research for the STEM College. Mark received his Ph.D. in Computer Science from the University of Glasgow, United Kingdom, in 1997. Mark was the first researcher show the value of snippets, a component of search interfaces which are now a standard feature of all search engines. While a faculty member at the Sheffield Information School, Mark co-founded, in 2003, the annual imageCLEF evaluation campaign, which continues to run today. The event has created over 60 research evaluation tasks for the image retrieval and image processing community involving over 500 international research groups. Mark was general chair of ACM SIGIR in 2004 and PC chair of ACM SIGIR 2009 & 2012; and ACM CIKM 2017. Mark was inducted into the ACM SIGIR Academy in 2024. His work in information retrieval, data analysis, and recommender systems has attracted over 15,000 Google Scholar citations.
       </p>
     </td>
   </tr>
