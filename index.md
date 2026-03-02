@@ -61,6 +61,22 @@ A list of topics relevant to this workshop (but not limited to):
   </tr>
 </table>
 
+
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+        <h3>Jing Jiang</h3>
+        <img src="/assets/img/JJ_Photo.jpg" alt="Jing Jiang" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <td>
+        <p style="text-align: justify;">
+          <h3> Talk Title: TBD</h3> <br>
+      Jing Jiang is a Professor in the School of Computing at the Australian National University. Prior to joining the ANU, she was a Professor of Computer Science at the Singapore Management University and Director of the AI and Data Science Cluster of the School of Computing and Information Systems at SMU. Jing’s research focuses on the applied side of natural language processing. She has worked on a broad range of topics in NLP including information extraction, topic modelling, sentiment analysis, social media analysis, question answering, and the evaluation of vision-language models. She served as a program co-chair for the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019, as an action editor for the Transactions of the Association for Computational Linguistics (TACL), and currently serves as one of the Editors-in-Chief of ACL Rolling Review (ARR). Jing received her PhD degree in Computer Science from the University of Illinois at Urbana-Champaign and her B.S. and M.S. degrees from Stanford University. She was named one of the Singapore 100 Women in Tech in 2021.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## **Submission Instructions**
 <a id="submission"></a>
 
