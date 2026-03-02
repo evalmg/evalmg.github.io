@@ -4,7 +4,7 @@ has_previous: true
 ---
 
 
-## **The Second Workshop of Evaluation for Multimodal Generation**
+## **The Second Workshop on Evaluation for Multimodal Generation**
 
 <p style="text-align: justify;">
     Multimodal generation and retrieval systems are increasingly central to modern information retrieval, powering retrieval-augmented generation (RAG), multimodal search, recommendation, and knowledge-intensive applications. Despite rapid progress in multimodal large language models (MLLMs), robust and principled evaluation of multimodal generation and retrieval remains a major open challenge for the IR community. This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in information retrieval, natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction.
