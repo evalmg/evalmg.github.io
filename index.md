@@ -77,6 +77,21 @@ A list of topics relevant to this workshop (but not limited to):
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+        <h3><a href="https://www.microsoft.com/en-us/research/people/pathom/">Paul Thomas</a></h3>
+        <img src="/assets/img/paul_thomas.jpg" alt="Paul Thomas" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+        <p style="text-align: justify;">
+          <h3> Talk Title: TBD</h3> <br>
+      Paul Thomas is a senior applied scientist at Microsoft, where he focuses on measurement for Bing and other products. His research interests include information retrieval, particularly how people use web search systems and how these systems should be evaluated. He has contributed to various research topics and has co-authored numerous publications. Paul Thomas has also been involved in hosting guest seminars on topics such as using language models for relevance labelling, which is crucial for evaluating the quality of search engines. His work has been recognized with a high h-index and numerous citations, reflecting his significant impact in the field of information retrieval.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## **Submission Instructions**
 <a id="submission"></a>
 
