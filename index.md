@@ -110,7 +110,7 @@ All accepted papers must be presented <b>in person</b> at the workshop.
 
 - Mar 25, 2026: Submission Open
 
-- Apr 21, 2026: Workshop Paper Direct Submission
+- May 2, 2026: Workshop Paper Direct Submission
 
 - May 27, 2026: ARR Commitment Date
 
