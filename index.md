@@ -114,7 +114,7 @@ All accepted papers must be presented <b>in person</b> at the workshop.
 
 - May 27, 2026: ARR Commitment Date
 
-- May 30, 2026: Workshop Paper Notification
+- June 2, 2026: Workshop Paper Notification
 
 - July 24, 2026: Workshop Day
 
