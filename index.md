@@ -96,7 +96,7 @@ A list of topics relevant to this workshop (but not limited to):
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
         <h3><a href="https://cs.adelaide.edu.au/~javen/">Javen Shi</a></h3>
-        <img src="/assets/img/javen_shi.jpg" alt="Javen Shi" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+        <img src="/assets/img/javen_shi_cropped.jpg" alt="Javen Shi" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
     </td>
     <td style="border: none; width: 70%; text-align: left;">
         <p style="text-align: justify;">
