@@ -92,6 +92,21 @@ A list of topics relevant to this workshop (but not limited to):
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%; text-align: center;">
+        <h3><a href="https://cs.adelaide.edu.au/~javen/">Javen Shi</a></h3>
+        <img src="/assets/img/javen_shi.jpg" alt="Javen Shi" style="border-radius: 50%; max-width: 100%; height: auto;"><br>
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+        <p style="text-align: justify;">
+          <h3> Talk Title: TBD</h3> <br>
+Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and one of the directors at the Australian Institute for Machine Learning (AIML). His research spans causation, AI, mind, and metaphysics. Globally ranked 6th in probabilistic graphical models and 4th in causation by Google Scholar, he has contributed to industries including material discovery, agriculture, mining, sport, manufacturing, bushfire, health and education. His awards include the ACM SIGIR 2025 Test of Time Award, first place in the Open Catalyst Challenge on AI driven material discovery at NeurIPS AI for Science 2023, victory in the AUS/NZ Bushfire Data Quest 2020, finalist recognition in the SA Department of Energy and Mining’s Gawler Challenge 2020, 2nd place in the global OZ Minerals Explorer Challenge 2019 (with 1,000+ participants from 62 countries), and the Golden Prize (1st place) from Volkswagen in 2019 for AI-powered digital factory innovation.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## **Submission Instructions**
 <a id="submission"></a>
 
