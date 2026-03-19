@@ -138,12 +138,12 @@ Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 ## **Organisers**
 <a id="organizers"></a>
 
-- Wei Emma Zhang, Adelaide University
-- Xiang Dai, CSIRO
-- Sarvnaz Karimi, CSIRO
-- Desmond Elliot, University of Copenhagen
-- Byron Fang, Oracle
-- Mong Yuan Sim, Adelaide University & CSIRO
+- <a href="https://weiezhang.github.io/">Wei Emma Zhang</a>, Adelaide University
+- <a href="https://iang.io/">Xiang Dai</a>, CSIRO
+- <a href="https://people.csiro.au/K/S/Sarvnaz-Karimi">Sarvnaz Karimi</a>, CSIRO
+- <a href="https://elliottd.github.io/">Desmond Elliot</a>, University of Copenhagen
+- <a href="https://biaoyanf.github.io/">Byron Fang</a>, Oracle
+- <a href="https://www.linkedin.com/in/mongyuansim/">Mong Yuan Sim</a>, Adelaide University & CSIRO
 
 ## **Previous Edition**
 - <a href="/2025/">EvalMG25 @ COLING 2025</a>
