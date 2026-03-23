@@ -1,7 +1,7 @@
 ---
 layout: default
 has_previous: true
-special_theme: Special Theme: Evaluation of Multimodal Generation and Retrieval Systems
+special_theme: 'Special Theme: Evaluation of Multimodal Generation and Retrieval Systems'
 ---
 
 
