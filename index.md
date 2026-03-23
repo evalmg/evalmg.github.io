@@ -145,9 +145,9 @@ Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 - <a href="https://biaoyanf.github.io/">Byron Fang</a>, Oracle
 - <a href="https://www.linkedin.com/in/mongyuansim/">Mong Yuan Sim</a>, Adelaide University & CSIRO
 
-## Sponsor
+## **Sponsor**
 <p style="text-align: center;">
-    <img src="/assets/img/rair_logo.png" alt="RAIR Logo" style="max-width: 100%; height: auto;">
+    <img src="/assets/img/rair_logo.png" alt="RAIR Logo" style="max-width: 60%; height: auto;">
 </p>
 
 
