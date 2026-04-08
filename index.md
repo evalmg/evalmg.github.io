@@ -118,7 +118,13 @@ For direct paper submission, you are invited to submit your papers in our <a hre
 Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>.
 We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. 
 All the submitted papers have to be anonymous for double-blind review.  
-All accepted papers must be presented <b>in person</b> at the workshop.
+</p>
+
+### ***Non-archival Option***
+<p style="text-align: justify;">
+To promote discussions within the community, our workshop includes a non-archival track. 
+Authors have the flexibility to submit their papers accepted to other conferences (e.g., ACL, EMNLP, WWW, KDD, SIGIR) to our workshop. 
+Accepted non-archival submissions will be offered the opportunity to give oral or poster presentation, and will not be included in the workshop proceedings. 
 </p>
 
 ## **Important Dates**
