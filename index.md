@@ -156,7 +156,7 @@ Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 <a id="sponsor"></a>
 
 <p style="text-align: center;">
-    <img src="/assets/img/RAIR-Lockup_CMYK_2-lines.png" alt="RAIR Logo" style="max-width: 60%; height: auto;">
+    <img src="/assets/img/RAIR-Lockup_CMYK_2-lines.png" alt="RAIR Logo" style="max-width: 90%; height: auto;">
 </p>
 
 
