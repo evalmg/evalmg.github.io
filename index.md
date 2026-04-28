@@ -116,10 +116,15 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
 We welcome both ARR paper commitment and direct paper submission.
 More details on ARR paper commitment will be coming soon.
 For direct paper submission, you are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. 
+For ARR paper commitment, you can submit your papers in the dedicated <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">paper commitment page on OpenReview</a>.
 Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>.
 We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. 
 All the submitted papers have to be anonymous for double-blind review.  
 </p>
+
+**Direct Submission:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG
+
+**ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
 
 ### ***Non-archival Option***
 <p style="text-align: justify;">
