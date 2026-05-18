@@ -127,6 +127,9 @@ All the submitted papers have to be anonymous for double-blind review.
 
 **ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
 
+### ***SIGIR'26 Fast Track Option***
+We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject. 
+
 ### ***Non-archival Option***
 <p style="text-align: justify;">
 To promote discussions within the community, our workshop includes a non-archival track. 
@@ -139,9 +142,9 @@ Accepted non-archival submissions will be offered the opportunity to give oral o
 
 - Mar 25, 2026: Submission Open
 
-- May 2, 2026: Workshop Paper Direct Submission
+- May 2, 2026: Workshop Paper Direct Submission Deadline
 
-- May 27, 2026: ARR Commitment Date
+- May 27, 2026: ARR Commitment & SIGIR Fast-track Submission Deadline
 
 - June 2, 2026: Workshop Paper Notification
 
