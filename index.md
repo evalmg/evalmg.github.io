@@ -123,9 +123,9 @@ We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-paper
 All the submitted papers have to be anonymous for double-blind review.  
 </p>
 
-**Direct Submission:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG
+**Direct Submission:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG</a>
 
-**ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
+**ARR Commitment:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment</a>
 
 ### ***SIGIR'26 Fast Track Option***
 We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject. 
