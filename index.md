@@ -127,7 +127,7 @@ All the submitted papers have to be anonymous for double-blind review.
 
 **ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
 
-### ***SIGIR'26 Fast Track Option***
+### ![NEW](https://img.shields.io/badge/NEW-orange?style=flat) ***SIGIR'26 Fast Track Option***
 We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject. 
 
 ### ***Non-archival Option***
