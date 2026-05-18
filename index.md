@@ -123,9 +123,21 @@ We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-paper
 All the submitted papers have to be anonymous for double-blind review.  
 </p>
 
-**Direct Submission:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG
+**Direct Submission:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG</a>
 
-**ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
+**ARR Commitment:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment</a>
+
+### <span style="display:inline-block; vertical-align:middle; margin-right:8px;">
+  <svg width="36" height="18" viewBox="0 0 36 18" xmlns="http://www.w3.org/2000/svg" style="display:block;">
+    <rect width="36" height="18" rx="9" fill="#f97316"/>
+    <text x="18" y="13" text-anchor="middle"
+          font-family="Arial, sans-serif"
+          font-size="10"
+          font-weight="700"
+          fill="white">NEW</text>
+  </svg>
+</span>***SIGIR'26 Fast Track Option***
+We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject.
 
 ### ***Non-archival Option***
 <p style="text-align: justify;">
