@@ -8,7 +8,7 @@ special_theme: 'Special Theme: Evaluation of Multimodal Generation and Retrieval
 ## **The Second Workshop on Evaluation for Multimodal Generation**
 
 <p style="text-align: justify;">
-    Multimodal generation and retrieval systems are increasingly central to modern information retrieval, powering retrieval-augmented generation (RAG), multimodal search, recommendation, and know[...]
+    Multimodal generation and retrieval systems are increasingly central to modern information retrieval, powering retrieval-augmented generation (RAG), multimodal search, recommendation, and knowledge-intensive applications. Despite rapid progress in multimodal large language models (MLLMs), robust and principled evaluation of multimodal generation and retrieval remains a major open challenge for the IR community. This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in information retrieval, natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction.
 </p>
 
 
@@ -56,14 +56,14 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
           <h3> Talk Title: TBD</h3> <br>
-          Mark Sanderson is Professor of Information Retrieval at RMIT University where he is Dean of Research for the STEM College. Mark received his Ph.D. in Computer Science from the University[...]
+          Mark Sanderson is Professor of Information Retrieval at RMIT University where he is Dean of Research for the STEM College. Mark received his Ph.D. in Computer Science from the University of Glasgow, United Kingdom, in 1997. Mark was the first researcher show the value of snippets, a component of search interfaces which are now a standard feature of all search engines. While a faculty member at the Sheffield Information School, Mark co-founded, in 2003, the annual imageCLEF evaluation campaign, which continues to run today. The event has created over 60 research evaluation tasks for the image retrieval and image processing community involving over 500 international research groups. Mark was general chair of ACM SIGIR in 2004 and PC chair of ACM SIGIR 2009 & 2012; and ACM CIKM 2017. Mark was inducted into the ACM SIGIR Academy in 2024. His work in information retrieval, data analysis, and recommender systems has attracted over 15,000 Google Scholar citations.
       </p>
     </td>
   </tr>
 </table>
 
 
-<table style="border-collapse: collapse; border: none; width:  100%;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
         <h3><a href="http://www.mysmu.edu/faculty/jingjiang/">Jing Jiang</a></h3>
@@ -72,7 +72,7 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
         <p style="text-align: justify;">
           <h3> Talk Title: TBD</h3> <br>
-      Jing Jiang is a Professor in the School of Computing at the Australian National University. Prior to joining the ANU, she was a Professor of Computer Science at the Singapore Management Univ[...]
+      Jing Jiang is a Professor in the School of Computing at the Australian National University. Prior to joining the ANU, she was a Professor of Computer Science at the Singapore Management University and Director of the AI and Data Science Cluster of the School of Computing and Information Systems at SMU. Jing’s research focuses on the applied side of natural language processing. She has worked on a broad range of topics in NLP including information extraction, topic modelling, sentiment analysis, social media analysis, question answering, and the evaluation of vision-language models. She served as a program co-chair for the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019, as an action editor for the Transactions of the Association for Computational Linguistics (TACL), and currently serves as one of the Editors-in-Chief of ACL Rolling Review (ARR). Jing received her PhD degree in Computer Science from the University of Illinois at Urbana-Champaign and her B.S. and M.S. degrees from Stanford University. She was named one of the Singapore 100 Women in Tech in 2021.
       </p>
     </td>
   </tr>
@@ -87,8 +87,8 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
         <p style="text-align: justify;">
           <h3> Talk Title: Evaluating Multimodal Conversation at Scale</h3> <br>
-            Paul Thomas is a senior applied scientist at Microsoft, where he focuses on measurement for Bing and other products. His research interests include information retrieval, particularly how [...]
-      Microsoft 365 Copilot helps millions of people around the world find, summarise, create, and edit digital artefacts of many types. Measuring and improving Copilot’s quality relies on const[...]
+            Paul Thomas is a senior applied scientist at Microsoft, where he focuses on measurement for Bing and other products. His research interests include information retrieval, particularly how people use web search systems and how these systems should be evaluated. He has contributed to various research topics and has co-authored numerous publications. Paul Thomas has also been involved in hosting guest seminars on topics such as using language models for relevance labelling, which is crucial for evaluating the quality of search engines. His work has been recognized with a high h-index and numerous citations, reflecting his significant impact in the field of information retrieval. <br> <br>
+      Microsoft 365 Copilot helps millions of people around the world find, summarise, create, and edit digital artefacts of many types. Measuring and improving Copilot’s quality relies on constant and in-depth evaluations, but these evaluations are made difficult by precisely the same features that make the product interesting: it is multimodal, multilingual, multiturn, serving a huge number and diversity of people, and with strong guarantees on data protection and privacy. In this talk I’ll outline some of the challenges of evaluating such a system at scale, and some of the techniques we have developed to help understand and improve the product.
       </p>
     </td>
   </tr>
@@ -103,8 +103,8 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
         <p style="text-align: justify;">
           <h3> Talk Title: The Hidden Intervention: How Cross-Modal Pairing Encodes the Causal Structure of Reality</h3> <br>
-Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and one of the directors at the Australian Institute for Machine Learning (AIML). His research spans causation, AI, min[...]
-        Every image paired with a caption, every video paired with a narration, every sound paired with its source: these are not accidents of annotation. They are windows into the causal structu[...]
+Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and one of the directors at the Australian Institute for Machine Learning (AIML). His research spans causation, AI, mind, and metaphysics. Globally ranked 6th in probabilistic graphical models and 4th in causation by Google Scholar, he has contributed to industries including material discovery, agriculture, mining, sport, manufacturing, bushfire, health and education. His awards include the ACM SIGIR 2025 Test of Time Award, first place in the Open Catalyst Challenge on AI driven material discovery at NeurIPS AI for Science 2023, victory in the AUS/NZ Bushfire Data Quest 2020, finalist recognition in the SA Department of Energy and Mining’s Gawler Challenge 2020, 2nd place in the global OZ Minerals Explorer Challenge 2019 (with 1,000+ participants from 62 countries), and the Golden Prize (1st place) from Volkswagen in 2019 for AI-powered digital factory innovation. <br> <br>
+        Every image paired with a caption, every video paired with a narration, every sound paired with its source: these are not accidents of annotation. They are windows into the causal structure of the world, natural experiments in which one facet of reality is perturbed while the underlying generative essence is held in place. In this talk, I advance the argument that cross-modal pairing is, at its core, a form of intervention, and that multimodal representation learning is, implicitly, both causal discovery and causal representation learning. By making this implicit causality explicit, we gain the ability to identify and disentangle latent variables that govern perception across modalities, and to build representations that are robust, interpretable, and grounded in the deep structure of how the world generates its appearances. This causal grounding also illuminates the mechanisms behind domain adaptation and distribution shift, revealing which features remain invariant across environments and how representations and mappings evolve when they do not. Ultimately, a system that has learned the true causal structure of its training signal is not merely memorising associations, but constructing a faithful world model, one capable of simulating the consequences of unseen interventions and generalising with the fluency and flexibility that natural intelligence embodies.
       </p>
     </td>
   </tr>
@@ -117,16 +117,15 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
 We welcome both ARR paper commitment and direct paper submission.
 More details on ARR paper commitment will be coming soon.
 For direct paper submission, you are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. 
-For ARR paper commitment, you can submit your papers in the dedicated <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">paper commitment page on OpenRevi[...]
+For ARR paper commitment, you can submit your papers in the dedicated <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">paper commitment page on OpenReview</a>.
 Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>.
-We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">s[...]
+We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short papers</a> (4 pages) submissions. 
 All the submitted papers have to be anonymous for double-blind review.  
 </p>
 
+**Direct Submission:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG
 
-**Direct Submission:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG</a>
-
-**ARR Commitment:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment</a>
+**ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
 
 ### ***SIGIR'26 Fast Track Option***
 We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject. 
@@ -143,9 +142,9 @@ Accepted non-archival submissions will be offered the opportunity to give oral o
 
 - Mar 25, 2026: Submission Open
 
-- May 2, 2026: Workshop Paper Direct Submission
+- May 2, 2026: Workshop Paper Direct Submission Deadline
 
-- May 27, 2026: ARR Commitment Date
+- May 27, 2026: ARR Commitment & SIGIR Fast-track Submission Deadline
 
 - June 2, 2026: Workshop Paper Notification
 
