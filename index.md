@@ -8,7 +8,7 @@ special_theme: 'Special Theme: Evaluation of Multimodal Generation and Retrieval
 ## **The Second Workshop on Evaluation for Multimodal Generation**
 
 <p style="text-align: justify;">
-    Multimodal generation and retrieval systems are increasingly central to modern information retrieval, powering retrieval-augmented generation (RAG), multimodal search, recommendation, and knowledg[...]
+    Multimodal generation and retrieval systems are increasingly central to modern information retrieval, powering retrieval-augmented generation (RAG), multimodal search, recommendation, and know[...]
 </p>
 
 
@@ -56,14 +56,14 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
       <p style="text-align: justify;">
           <h3> Talk Title: TBD</h3> <br>
-          Mark Sanderson is Professor of Information Retrieval at RMIT University where he is Dean of Research for the STEM College. Mark received his Ph.D. in Computer Science from the University of [...]
+          Mark Sanderson is Professor of Information Retrieval at RMIT University where he is Dean of Research for the STEM College. Mark received his Ph.D. in Computer Science from the University[...]
       </p>
     </td>
   </tr>
 </table>
 
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse: collapse; border: none; width:  100%;">
   <tr>
     <td style="border: none; width: 30%; text-align: center;">
         <h3><a href="http://www.mysmu.edu/faculty/jingjiang/">Jing Jiang</a></h3>
@@ -72,7 +72,7 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
         <p style="text-align: justify;">
           <h3> Talk Title: TBD</h3> <br>
-      Jing Jiang is a Professor in the School of Computing at the Australian National University. Prior to joining the ANU, she was a Professor of Computer Science at the Singapore Management Universi[...]
+      Jing Jiang is a Professor in the School of Computing at the Australian National University. Prior to joining the ANU, she was a Professor of Computer Science at the Singapore Management Univ[...]
       </p>
     </td>
   </tr>
@@ -88,7 +88,7 @@ A list of topics relevant to this workshop (but not limited to):
         <p style="text-align: justify;">
           <h3> Talk Title: Evaluating Multimodal Conversation at Scale</h3> <br>
             Paul Thomas is a senior applied scientist at Microsoft, where he focuses on measurement for Bing and other products. His research interests include information retrieval, particularly how [...]
-      Microsoft 365 Copilot helps millions of people around the world find, summarise, create, and edit digital artefacts of many types. Measuring and improving Copilot’s quality relies on constant [...]
+      Microsoft 365 Copilot helps millions of people around the world find, summarise, create, and edit digital artefacts of many types. Measuring and improving Copilot’s quality relies on const[...]
       </p>
     </td>
   </tr>
@@ -103,8 +103,8 @@ A list of topics relevant to this workshop (but not limited to):
     <td style="border: none; width: 70%; text-align: left;">
         <p style="text-align: justify;">
           <h3> Talk Title: The Hidden Intervention: How Cross-Modal Pairing Encodes the Causal Structure of Reality</h3> <br>
-Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and one of the directors at the Australian Institute for Machine Learning (AIML). His research spans causation, AI, mind, an[...]
-        Every image paired with a caption, every video paired with a narration, every sound paired with its source: these are not accidents of annotation. They are windows into the causal structure of[...]
+Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and one of the directors at the Australian Institute for Machine Learning (AIML). His research spans causation, AI, min[...]
+        Every image paired with a caption, every video paired with a narration, every sound paired with its source: these are not accidents of annotation. They are windows into the causal structu[...]
       </p>
     </td>
   </tr>
@@ -117,9 +117,9 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
 We welcome both ARR paper commitment and direct paper submission.
 More details on ARR paper commitment will be coming soon.
 For direct paper submission, you are invited to submit your papers in our <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG">OpenReview portal</a>. 
-For ARR paper commitment, you can submit your papers in the dedicated <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">paper commitment page on OpenReview</a[...]
+For ARR paper commitment, you can submit your papers in the dedicated <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">paper commitment page on OpenRevi[...]
 Papers are required to strictly follow the <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">SIGIR submission guidelines</a>.
-We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">short [...]
+We invite both <a href="https://sigir2026.org/en-AU/pages/submissions/full-papers-track">long papers</a> (9 pages) and <a href="https://sigir2026.org/en-AU/pages/submissions/short-papers-track">s[...]
 All the submitted papers have to be anonymous for double-blind review.  
 </p>
 
@@ -127,16 +127,16 @@ All the submitted papers have to be anonymous for double-blind review.
 
 **ARR Commitment:** <a href="https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment">https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment</a>
 
-### <span style="display:inline-block; vertical-align:middle; margin-right:8px;">
-  <svg width="36" height="18" viewBox="0 0 36 18" xmlns="http://www.w3.org/2000/svg" style="display:block;">
-    <rect width="36" height="18" rx="9" fill="#f97316"/>
-    <text x="18" y="13" text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="10"
-          font-weight="700"
-          fill="white">NEW</text>
-  </svg>
-</span>***SIGIR'26 Fast Track Option***
+<h3>
+  <span style="display:inline-flex; align-items:center; vertical-align:middle; margin-right:8px;">
+    <svg width="36" height="18" viewBox="0 0 36 18" xmlns="http://www.w3.org/2000/svg" aria-label="New">
+      <rect width="36" height="18" rx="9" fill="#f97316"/>
+      <text x="18" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white">NEW</text>
+    </svg>
+  </span>
+  <em><strong>SIGIR'26 Fast Track Option</strong></em>
+</h3>
+
 We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject.
 
 ### ***Non-archival Option***
