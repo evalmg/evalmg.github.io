@@ -127,7 +127,7 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
         Talk Title: Evaluating information access? Don't forget the questions <br><br>
         <details><summary>[Abstract]</summary>
         The evaluation of information access systems will often require the creation of benchmark datasets, made up of components such as sets of documents, sets of questions, and sets of labels that indicate notion such as relevance, accuracy, readability, etc. Much focus is on ways of creating the labels efficiently. This is not just a recent area of interest, it has often been the focus a great deal of research effort. But what of the other components of a benchmark? One component that receives less attention than perhaps it should are questions. Traditionally, the formation of these questions was not given a great deal of thought this despite significant evidence indicating that question design is of critical importance to the creation of benchmarks that are valid. In this talk, I will briefly outline the history of benchmark creation discussing why questions have not received a great deal of attention. I will then highlight a series of research projects but have been undertaken over the last few years at RMIT examining the importance of questions and their integration into benchmark design.
-        </details>
+        </details> <br>
     </td>
   </tr>
 
@@ -138,7 +138,7 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
         Talk Title: The Hidden Intervention: How Cross-Modal Pairing Encodes the Causal Structure of Reality <br><br>
           <details><summary>[Abstract]</summary>
           Every image paired with a caption, every video paired with a narration, every sound paired with its source: these are not accidents of annotation. They are windows into the causal structure of the world, natural experiments in which one facet of reality is perturbed while the underlying generative essence is held in place. In this talk, I advance the argument that cross-modal pairing is, at its core, a form of intervention, and that multimodal representation learning is, implicitly, both causal discovery and causal representation learning. By making this implicit causality explicit, we gain the ability to identify and disentangle latent variables that govern perception across modalities, and to build representations that are robust, interpretable, and grounded in the deep structure of how the world generates its appearances. This causal grounding also illuminates the mechanisms behind domain adaptation and distribution shift, revealing which features remain invariant across environments and how representations and mappings evolve when they do not. Ultimately, a system that has learned the true causal structure of its training signal is not merely memorising associations, but constructing a faithful world model, one capable of simulating the consequences of unseen interventions and generalising with the fluency and flexibility that natural intelligence embodies.
-          </details>
+          </details><br>
           <b>Paper presentation</b><br>CLIP-CC Bench: Evaluating Paragraph-Level Video Descriptions in Video--Language Models<br><i>Authors: Mukhtiar Ali, Harsh Dubey, Sugam Mishra, Chulwoo Pack</i> <br><br>
           When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agent<br><i>Authors: Yanhang Li, Zhichao Fan, Zexin Zhuang</i> <br><br>
      </td>
@@ -156,7 +156,7 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
         Talk Title: Evaluating Multimodal Conversation at Scale <br><br>
         <details><summary>[Abstract]</summary>
         Microsoft 365 Copilot helps millions of people around the world find, summarise, create, and edit digital artefacts of many types. Measuring and improving Copilot’s quality relies on constant and in-depth evaluations, but these evaluations are made difficult by precisely the same features that make the product interesting: it is multimodal, multilingual, multiturn, serving a huge number and diversity of people, and with strong guarantees on data protection and privacy. In this talk I’ll outline some of the challenges of evaluating such a system at scale, and some of the techniques we have developed to help understand and improve the product. 
-        </details>
+        </details> <br>
     </td>
   </tr>
   
