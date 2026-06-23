@@ -202,13 +202,13 @@ Accepted non-archival submissions will be offered the opportunity to give oral o
 ## **Important Dates**
 <a id="important-dates"></a>
 
-- Mar 25, 2026: Submission Open
+- ~~Mar 25, 2026: Submission Open~~
 
-- May 2, 2026: Workshop Paper Direct Submission Deadline
+- ~~May 2, 2026: Workshop Paper Direct Submission Deadline~~
 
-- May 27, 2026: ARR Commitment & SIGIR Fast-track Submission Deadline
+- ~~May 27, 2026: ARR Commitment & SIGIR Fast-track Submission Deadline~~
 
-- June 2, 2026: Workshop Paper Notification
+- ~~June 2, 2026: Workshop Paper Notification~~
 
 - July 24, 2026: Workshop Day
 
