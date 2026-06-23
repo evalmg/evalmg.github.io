@@ -393,3 +393,14 @@ a {
   margin: 0 10px; /* Add margin around each navbar item */
   color: white;
 }
+
+details summary {
+  display: list-item;
+  cursor: pointer;
+  font-weight: bold;
+  color: #1e6bb8;
+}
+
+details summary:hover {
+  text-decoration: underline;
+}
