@@ -129,6 +129,7 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
         <details><summary>[Abstract]</summary>
         The evaluation of information access systems will often require the creation of benchmark datasets, made up of components such as sets of documents, sets of questions, and sets of labels that indicate notion such as relevance, accuracy, readability, etc. Much focus is on ways of creating the labels efficiently. This is not just a recent area of interest, it has often been the focus a great deal of research effort. But what of the other components of a benchmark? One component that receives less attention than perhaps it should are questions. Traditionally, the formation of these questions was not given a great deal of thought this despite significant evidence indicating that question design is of critical importance to the creation of benchmarks that are valid. In this talk, I will briefly outline the history of benchmark creation discussing why questions have not received a great deal of attention. I will then highlight a series of research projects but have been undertaken over the last few years at RMIT examining the importance of questions and their integration into benchmark design.
         </details> <br>
+        <b>Paper presentation</b><br>Measuring What Matters Beyond Text: Evaluating Multimodal Summaries by Quality, Alignment, and Diversity<br><i>Authors: Abid Ali, Diego Molla, Usman Naseem</i><br><br>
     </td>
   </tr>
 
