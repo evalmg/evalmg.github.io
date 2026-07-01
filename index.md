@@ -122,7 +122,7 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
   </tr>
     
   <tr>
-    <td>9:10 - 10:10</td>
+    <td>9:10 - 10:00</td>
     <td>
         <b>Keynote I - Mark Sanderson</b> <br><br>
         Talk Title: Evaluating information access? Don't forget the questions <br><br>
