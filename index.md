@@ -108,7 +108,7 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
   </tr>
 </table>
 
-## **Tentative Program**
+## **Program**
 <a id="program"></a>
 
 <table>
