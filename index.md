@@ -12,6 +12,7 @@ special_theme: 'Special Theme: Evaluation of Multimodal Generation and Retrieval
 </p>
 
 ## **EOI Attendance Registration**
+<a id="registration"></a>
 
 If you are planning to attend the workshop, please complete the Expression of Interest (EOI) attendance registration form before coming. This will help us confirm expected numbers and make the necessary arrangements for participants.
 
