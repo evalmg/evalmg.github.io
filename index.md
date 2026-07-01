@@ -140,6 +140,12 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
   </tr>
 
   <tr>
+      <td>10:30 - 11:00</td>
+      <td>Coffee Break</td>
+  </tr>
+  
+
+  <tr>
       <td>11:00 - 11:50</td>
       <td>
         <b>Keynote II - Javen Shi</b> <br><br>
@@ -185,6 +191,11 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
         Microsoft 365 Copilot helps millions of people around the world find, summarise, create, and edit digital artefacts of many types. Measuring and improving Copilot’s quality relies on constant and in-depth evaluations, but these evaluations are made difficult by precisely the same features that make the product interesting: it is multimodal, multilingual, multiturn, serving a huge number and diversity of people, and with strong guarantees on data protection and privacy. In this talk I’ll outline some of the challenges of evaluating such a system at scale, and some of the techniques we have developed to help understand and improve the product. 
         </details> <br>
       </td>
+  </tr>
+
+  <tr>
+      <td>15:10 - 15:30</td>
+      <td>Coffee Break</td>
   </tr>
   
   <tr>
