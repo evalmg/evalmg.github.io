@@ -86,6 +86,12 @@ Professor Javen Qinfeng Shi is the Founding Director of the Causal AI Group and 
 ## **Program**
 <a id="program"></a>
 
+<b>Date: 24 July 2026 (Friday)</b>
+<br>
+<b>Venue: Melbourne Convention and Exhibition Centre</b>
+<br>
+<i>All times are Melbourne local time, Australian Eastern Standard Time (AEST), UTC/GMT +10</i>
+
 <table>
   <tr style="background-color: #807e7e; color: white;">
     <th style="width: 180px;">Time</th>
