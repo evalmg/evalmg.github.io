@@ -11,7 +11,7 @@ special_theme: 'Special Theme: Evaluation of Multimodal Generation and Retrieval
     Multimodal generation and retrieval systems are increasingly central to modern information retrieval, powering retrieval-augmented generation (RAG), multimodal search, recommendation, and knowledge-intensive applications. Despite rapid progress in multimodal large language models (MLLMs), robust and principled evaluation of multimodal generation and retrieval remains a major open challenge for the IR community. This workshop aims to foster discussions and research efforts by bringing together researchers and practitioners in information retrieval, natural language processing, computer vision, and multimodal AI. Our goal is to establish evaluation methods for multimodal research and advance research efforts in this direction.
 </p>
 
-## **EOI Attendance Registration**
+## ![NEW](https://img.shields.io/badge/NEW-orange?style=flat) **EOI Attendance Registration**
 <a id="registration"></a>
 
 If you are planning to attend the workshop, please complete the Expression of Interest (EOI) attendance registration form before coming. This is for planning purposes only.
@@ -239,7 +239,7 @@ All the submitted papers have to be anonymous for double-blind review.
 
 **ARR Commitment:** https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/EvalMG_ARR_Commitment
 
-### ![NEW](https://img.shields.io/badge/NEW-orange?style=flat) ***SIGIR'26 Fast Track Option***
+### ***SIGIR'26 Fast Track Option***
 We welcome SIGIR'26 submissions that were not accepted to submit both the paper and review comments (as attachments) to our direct submission portal. Please note that submissions without the review will lead to a desk reject. 
 
 ### ***Non-archival Option***
