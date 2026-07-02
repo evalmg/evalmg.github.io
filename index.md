@@ -263,7 +263,7 @@ Note: All deadlines are 11:59PM UTC-12:00 (“Anywhere on Earth”)
 
 - <a href="https://weiezhang.github.io/">Wei Emma Zhang</a>, Adelaide University
 - <a href="https://iang.io/">Xiang Dai</a>, CSIRO
-- <a href="https://people.csiro.au/K/S/Sarvnaz-Karimi">Sarvnaz Karimi</a>, Monash & CSIRO
+- <a href="[https://people.csiro.au/K/S/Sarvnaz-Karimi](https://research.monash.edu/en/persons/sarvnaz-karimi/)">Sarvnaz Karimi</a>, Monash University
 - <a href="https://elliottd.github.io/">Desmond Elliot</a>, University of Copenhagen
 - <a href="https://biaoyanf.github.io/">Byron Fang</a>, Oracle
 - <a href="https://www.linkedin.com/in/mongyuansim/">Mong Yuan Sim</a>, Adelaide University & CSIRO
